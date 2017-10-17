@@ -1,7 +1,9 @@
 ---
+title: Week 01 Review
+date: 2017-10-17 19:27:26.577000000 Z
 layout: post
-title:  "Week 01 Review"
 ---
+
 This week was broken into 4 meetings:
 - _Friday 10/13_ team formed/setup
 - _Sunday 10/15_ project ideation/selection
