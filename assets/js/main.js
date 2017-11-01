@@ -92,8 +92,15 @@
 						$sidebar.addClass('inactive');
 					})
 					.on('-large !large', function() {
-						$sidebar.removeClass('inactive');
+						if (location.pathname != "/2017/boardbot/" && location.pathname != "/2017/boardbot/index.html") {
+							$sidebar.removeClass('inactive');
+						};
 					});
+
+			// Inactive on main page
+				if (location.pathname == "/2017/boardbot/" || location.pathname == "/2017/boardbot/index.html") {
+					$sidebar.addClass('inactive')
+				};
 
 			// Hack: Workaround for Chrome/Android scrollbar position bug.
 				if (skel.vars.os == 'android'

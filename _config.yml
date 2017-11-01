@@ -1,29 +1,53 @@
-# Site settings
-title: Editorial
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
-baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+---
+title: BoardBot
+subtitle: Olin PoE 2017
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    permalink: /posts/:title/
+    output: true
+  sprints:
+    title: Sprints
+    permalink: /sprints/:title/
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: evan@new-schmidt.com
+description: > #
+  The website of team Scrumbled Eggs for the Principles of Engineering
+  course at Olin College of Engineering in Fall 2017. Currently investigating the
+  intersection of whiteboards and Computer Numerical Control.
+street_address: 1000 Olin Way
+city: Needham
+state: MA
+zip_code: 02492
 country: United States of America
-phone: (716) 555-5555
+baseurl: "/2017/boardbot"
+url: "http://poe.olin.edu"
+github_url: https://github.com/scrumbledeggs
 
-# Social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+team:
+  adam:
+    name: Adam Novotny
+    github: labseven
+  alex:
+    name: Alex Core
+    github: Ryofashadewalk
+  ian:
+    name: Ian Paul
+    github: IanOlin
+  jared:
+    name: Jared Briskman
+    github: jaredbriskman
+  newsch:
+    name: Evan Lloyd New-Schmidt
+    photo: /assets/images/pic01.jpg
+    email: evan@new-schmidt.com
+    web: new-schmidt.com
+    github: newsch
 
-# Build settings
 markdown: kramdown
+plugins:
+- jekyll-feed
