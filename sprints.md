@@ -1,8 +1,9 @@
 ---
 title: Sprints
+permalink: "/sprints/"
 layout: page
-permalink: /sprints/
 ---
+
 Pug velit chartreuse in, shaman try-hard do master cleanse sriracha. Veniam in green juice, venmo messenger bag sed chia tempor put a bird on it hexagon actually et.
 
 - [Sprint 1]({{ site.baseurl }}{% link _sprints/sprint-1.md %})

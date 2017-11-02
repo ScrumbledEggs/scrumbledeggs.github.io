@@ -1,8 +1,9 @@
 ---
 title: Tech
+permalink: "/tech/"
 layout: page
-permalink: /tech/
 ---
+
 Stumptown vape kitsch, shoreditch in ullamco try-hard labore seitan literally. Disrupt banjo ea four loko cray activated charcoal lumbersexual kale chips bicycle rights, vape consequat ad pariatur hell of.
 
 - [Mechanical]({{ site.baseurl }}{% link mechanical.md %})

@@ -1,33 +1,32 @@
 ---
 title: BoardBot
-subtitle: Olin PoE 2017
 timezone: UTC
 collections:
   posts:
     title: Posts
-    permalink: /posts/:title/
     output: true
   sprints:
     title: Sprints
-    permalink: /sprints/:title/
     output: true
+    permalink: "/sprints/:title/"
   uploads:
     title: Uploads
     output: true
+subtitle: Olin PoE 2017
 email: evan@new-schmidt.com
-description: > #
-  The website of team Scrumbled Eggs for the Principles of Engineering
+description: 'The website of team Scrumbled Eggs for the Principles of Engineering
   course at Olin College of Engineering in Fall 2017. Currently investigating the
   intersection of whiteboards and Computer Numerical Control.
+
+'
 street_address: 1000 Olin Way
 city: Needham
 state: MA
 zip_code: 02492
 country: United States of America
 baseurl: "/2017/boardbot"
-url: "http://poe.olin.edu"
+url: http://poe.olin.edu
 github_url: https://github.com/scrumbledeggs
-
 team:
   adam:
     name: Adam Novotny
@@ -43,11 +42,10 @@ team:
     github: jaredbriskman
   newsch:
     name: Evan Lloyd New-Schmidt
-    photo: /assets/images/pic01.jpg
+    photo: "/assets/images/pic01.jpg"
     email: evan@new-schmidt.com
     web: new-schmidt.com
     github: newsch
-
 markdown: kramdown
 plugins:
 - jekyll-feed

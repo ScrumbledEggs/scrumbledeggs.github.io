@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Generic
+layout: page
 image: assets/images/pic11.jpg
 ---
 

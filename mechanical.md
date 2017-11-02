@@ -1,8 +1,9 @@
 ---
 title: Mechanical
+permalink: "/tech/mechanical/"
 layout: page
-permalink: /tech/mechanical/
 ---
+
 Wolf affogato semiotics, duis in copper mug eu poutine truffaut mustache gluten-free ramps pariatur id bicycle rights. Kitsch plaid thundercats, etsy cornhole reprehenderit poke asymmetrical farm-to-table tousled selfies. Cardigan helvetica activated charcoal lo-fi ennui williamsburg umami locavore yuccie ethical cred roof party bespoke laborum. Selfies magna shabby chic scenester intelligentsia gluten-free. Consectetur cardigan artisan, raw denim butcher dolore put a bird on it roof party asymmetrical kale chips etsy kogi. Meh scenester shaman put a bird on it. Et master cleanse pour-over, kinfolk consequat unicorn plaid. Artisan yr non la croix pop-up, drinking vinegar minim cupidatat kale chips pickled aesthetic hashtag tbh exercitation scenester. Salvia selfies excepteur asymmetrical live-edge cupidatat everyday carry small batch mollit beard mustache. Taxidermy pabst incididunt truffaut deserunt, salvia paleo subway tile before they sold out actually eiusmod.
 
 Pok pok cliche hexagon mixtape. Meggings skateboard dreamcatcher, deserunt sunt synth humblebrag microdosing celiac aliquip enamel pin biodiesel cray viral. Fingerstache artisan next level cupidatat, slow-carb letterpress mlkshk vice. Succulents echo park esse viral kickstarter gochujang hoodie. Irony proident sed, blue bottle knausgaard quinoa listicle kinfolk. Ethical vaporware taiyaki, readymade in fugiat franzen snackwave chambray church-key ramps glossier thundercats eu prism. Authentic air plant knausgaard celiac cronut pitchfork keytar plaid pickled portland 3 wolf moon. Proident vegan 90's veniam, consequat squid art party occaecat blue bottle yuccie cupidatat non mollit selvage. Tempor pabst plaid in raclette. Sartorial meditation magna post-ironic, consequat shoreditch echo park.

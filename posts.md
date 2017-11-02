@@ -1,8 +1,9 @@
 ---
 title: Posts
+permalink: "/posts/"
 layout: page
-permalink: /posts/
 ---
+
 <ul class="post-list">
   {% for post in site.posts %}
     <li>

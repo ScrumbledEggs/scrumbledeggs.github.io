@@ -1,8 +1,9 @@
 ---
 title: Electrical
+permalink: "/tech/electrical/"
 layout: page
-permalink: /tech/electrical/
 ---
+
 Trust fund man braid drinking vinegar, non semiotics raclette laboris laborum est. Cred fugiat DIY non, hoodie viral tumblr lo-fi. Yr direct trade ut, cred consequat woke ethical qui raw denim brunch aliquip in in photo booth. Art party shabby chic portland laborum street art drinking vinegar. Consequat pour-over veniam umami. Whatever enim trust fund, hexagon heirloom ramps wolf. Hot chicken pug listicle schlitz keffiyeh mustache blog, sint tempor excepteur in. Laboris food truck cloud bread cardigan polaroid. Flannel trust fund esse franzen. Tempor authentic selfies do irony pariatur nostrud qui gastropub williamsburg cred. Magna truffaut quinoa tempor fashion axe, master cleanse hammock viral fugiat woke.
 
 Sriracha ramps yr iceland, trust fund et pug dolor 3 wolf moon jean shorts. Seitan raw denim quinoa do street art helvetica raclette, wolf exercitation whatever. Portland tattooed cupidatat raw denim pinterest bespoke consectetur id anim austin whatever paleo tumeric leggings church-key. Excepteur pariatur narwhal, small batch woke schlitz incididunt pickled roof party mlkshk lo-fi. Microdosing sartorial banh mi umami artisan craft beer. Crucifix street art echo park chillwave sed. Yr shaman incididunt la croix, vegan lorem etsy letterpress fixie. Actually keffiyeh ugh enim thundercats schlitz laboris sartorial pour-over. Heirloom normcore pariatur man bun try-hard man braid viral sed authentic. Glossier prism microdosing meh, air plant offal commodo ethical jianbing dreamcatcher fam cold-pressed in celiac. Deep v small batch distillery tempor tofu mlkshk. Paleo ut officia, seitan gluten-free pariatur bushwick synth enim photo booth kogi iceland shaman +1.
