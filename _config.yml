@@ -22,7 +22,7 @@ description: 'The website of team Scrumbled Eggs for the Principles of Engineeri
 street_address: 1000 Olin Way
 city: Needham
 state: MA
-zip_code: 02492
+zip_code: '02492'
 country: United States of America
 baseurl: "/2017/boardbot"
 url: http://poe.olin.edu
