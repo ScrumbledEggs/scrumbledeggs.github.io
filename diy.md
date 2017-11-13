@@ -4,4 +4,56 @@ layout: page
 link: "/diy/"
 ---
 
-Stumptown vape kitsch, shoreditch in ullamco try-hard labore seitan literally. Disrupt banjo ea four loko cray activated charcoal lumbersexual kale chips bicycle rights, vape consequat ad pariatur hell of. Proident organic ut tote bag ugh yuccie. Next level fanny pack sunt eiusmod letterpress raclette narwhal la croix jianbing taiyaki cred pabst meditation leggings. Consequat in shabby chic, pabst twee cold-pressed gentrify prism tilde williamsburg forage tote bag do kogi XOXO. Cray wolf echo park dolore nisi forage qui franzen incididunt adaptogen brunch hot chicken occupy farm-to-table cillum. Irure duis mixtape, 3 wolf moon brunch vice shaman prism. Hammock waistcoat gochujang tumblr taxidermy direct trade gentrify bitters fixie. Blue bottle viral ipsum literally vegan cred microdosing cronut offal. Nulla bitters ullamco enamel pin pinterest ut swag proident knausgaard crucifix, trust fund pour-over. Taxidermy id biodiesel normcore. You probably haven't heard of them veniam venmo dolore single-origin coffee tofu lomo pitchfork. Cloud bread coloring book irure kinfolk actually. Small batch dolore glossier selfies. Semiotics bicycle rights beard photo booth pabst celiac locavore.
+With a budget of less than $250, you too can build your own BoardBot. With open source CAD and and code, you can remix your BoardBot to fit your exact needs.
+
+
+<h4>BOM</h4>
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Price</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Acrylic</td>
+        <td> Approximately 12"x12" </td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td>Stepper Motors</td>
+        <td>Two [insert relevant specs]</td>
+        <td>2x50000</td>
+      </tr>
+      <tr>
+        <td>Arduino</td>
+        <td>Uno and nano</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Cabling</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Servo</td>
+        <td>Small, standard hobby grade</td>
+        <td></td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="2"></td>
+        <td><250</td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+Our mechanical design is [available on Onshape](https://cad.onshape.com/documents/8f08652983ca17f06e9ac67d/w/e174f06e8eb73e105045d519/e/7b27395932c9fa97ee45a030). Our software is [available on GitHub](https://github.com/ScrumbledEggs/PoE).
+
+# Steps:
+Laser cut the stepper hooks, end effector assembly, and arduino mount out of your material of choice. We used clear 1/8" Acrylic and are very happy with the results.
