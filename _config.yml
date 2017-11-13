@@ -24,7 +24,6 @@ city: Needham
 state: MA
 zip_code: '02492'
 country: United States of America
-# baseurl: "/2017/boardbot"
 url: http://poe.olin.edu
 github_url: https://github.com/scrumbledeggs
 team:
