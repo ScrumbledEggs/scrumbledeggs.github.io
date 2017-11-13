@@ -4,6 +4,7 @@ date: 2017-11-13 17:27:26.577000000 Z
 layout: post
 author: adam
 ---
+
 After lots of debugging the embedded code, it does the things we want it to do, and is in a pretty clean state.
 
 ## Decisions:
