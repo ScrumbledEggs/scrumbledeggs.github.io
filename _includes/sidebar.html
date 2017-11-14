@@ -23,6 +23,7 @@
                 {% for sprint in site.sprints | sort %}
                 <li><a href="{{ sprint.url | absolute_url }}">{{ sprint.title | escape }}</a></li>
                 {% endfor %}
+                <li><a href="{{ site.baseurl }}{% link posts.md %}">Blog</a></li>
               </ul>
             </li>
             <li>
