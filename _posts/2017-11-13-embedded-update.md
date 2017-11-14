@@ -8,7 +8,12 @@ author: adam
 After lots of debugging the embedded code, it does the things we want it to do, and is in a pretty clean state.
 
 ## Decisions:
-structs for position and lengths. `XY_Pos` and `LR_Step`. This helped me find at least one bug, and made the code much cleaner. I need to finish implementing the new structs in all of the functions
+Created structs for position and lengths: `XY_Pos` and `LR_Step`.
+`XY_Pos` is for positions in xy, with units in mm, origin in the top left corner
+`LR_Step` is for lengths of cable, in stepper steps
+Both use `int`s for their values.
+
+This helped me find at least one bug, and made the code much cleaner. I need to finish implementing the new structs in all of the functions
 
 `XY_Pos` is given in mm from the top left corner. This is a change from setting an artboard with unitless dimensions and then converting to mm. The advantage was that I found the problem causing scaling issues, but I think it will be nicer to set the size and position of SVGs in mm units instead of useless 'artboard' units.
 
