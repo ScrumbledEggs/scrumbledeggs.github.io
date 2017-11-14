@@ -19,7 +19,6 @@
             <li>
               <span class="opener">Our Journey</span>
               <ul>
-                <li><a href="{{ site.baseurl }}{% link sprints.md %}">Overview</a></li>
                 {% for sprint in site.sprints | sort %}
                 <li><a href="{{ sprint.url | absolute_url }}">{{ sprint.title | escape }}</a></li>
                 {% endfor %}
