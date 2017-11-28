@@ -1,9 +1,10 @@
 ---
 title: Documentation Hand-off Sprint 3
-date: 2017-11-12
+date: 2017-11-12 00:00:00 Z
 layout: post
 author: adam
 ---
+
 # Mos important advice:
 Write posts into \_drafts. Do it and we'll all be happy.
 
