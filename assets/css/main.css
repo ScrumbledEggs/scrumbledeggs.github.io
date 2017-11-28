@@ -3674,6 +3674,11 @@
 			margin-left: -26em;
 		}
 
+		#sidebar .getintouch {
+			position: absolute;
+			bottom: 0;
+		}
+
 		@media screen and (max-width: 1680px) {
 
 			#sidebar {
