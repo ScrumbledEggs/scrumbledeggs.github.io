@@ -4068,3 +4068,12 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+
+/* Blog Posts */
+
+.post img {
+	max-width: 50%;
+	display: block;
+	margin: 0 auto;
+}
