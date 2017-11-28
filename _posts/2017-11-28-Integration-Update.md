@@ -26,6 +26,7 @@ We had a productive work time in class today.
   * Shorter length for less twist (new steppers are closer to board)
   * Added side plate for more rigidity
   * Using side-mounted screws for belt connection
+  * [See here for this version CAD](https://cad.onshape.com/documents/8f08652983ca17f06e9ac67d/v/375d526118e6d4d7ac6846bf){:target="\_blank"}
 * Created molex'ed cables for stepper drivers
 * Fixed a few website css/layout issues
 * Planned out work till Friday
