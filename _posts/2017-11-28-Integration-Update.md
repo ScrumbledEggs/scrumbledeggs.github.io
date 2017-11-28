@@ -1,6 +1,6 @@
 ---
 title: Integration Update
-date: 2017-11-28
+date: 2017-11-28 00:00:00 Z
 author: adam
 layout: post
 ---
