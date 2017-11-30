@@ -1,9 +1,10 @@
 ---
 title: Coordinate System Maths
-date: 2017-10-20
+date: 2017-10-20 00:00:00 Z
 layout: post
 author: adam
 ---
+
 The change-of-basis from cartesian coordinates to a two-string system turned out to be pretty simple.
 
 We set the origin to be in the top left corner, with the y-axis extending in the positive direction downward. We chose this because the pen will never be above the motors, and it also makes the math much simpler. This also follows the SVG spec.
