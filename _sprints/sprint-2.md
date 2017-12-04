@@ -3,7 +3,6 @@ title: Sprint 2
 layout: page
 ---
 
-
 ## What we did in Sprint 2:
 * Integrated stepper motors
 * Started processing SVGs
