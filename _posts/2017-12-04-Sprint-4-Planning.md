@@ -1,6 +1,6 @@
 ---
 title: Sprint 4 Planning
-date: 2017-12-04
+date: 2017-12-04 00:00:00 Z
 author: adam
 layout: post
 ---
