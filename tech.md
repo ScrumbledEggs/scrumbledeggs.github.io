@@ -3,6 +3,7 @@ title: Tech
 permalink: "/tech/"
 layout: page
 ---
+
 BoardBot is an integrated system of _nontrivial_ **Mechanical**, **Electrical**, and **Software** components.
 
 ## Read more about each subsystem:
