@@ -26,9 +26,7 @@ zip_code: '02492'
 country: United States of America
 url: https://scrumbledeggs.github.io/
 github_url: https://github.com/scrumbledeggs
-
 google_analytics: UA-110661156-1
-
 team:
   adam:
     name: Adam Novotny
