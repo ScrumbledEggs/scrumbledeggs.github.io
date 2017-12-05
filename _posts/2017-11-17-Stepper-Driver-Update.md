@@ -1,8 +1,8 @@
 ---
 title: Stepper Driver Update
-date: 2017-11-17 17:27:26.577000000 Z
-layout: post
+date: 2017-11-17 17:27:00 Z
 author: adam
+layout: post
 ---
 
 I talked to Stan today about what steps to do to implement the new stepper driver:
@@ -32,6 +32,7 @@ Set D8 to high to disable the DRV8825s.
 Stepper shield pins:
 
 | Stepper | Step | Dir |
+|---|---|---|
 | X | 2 | 5 |
 | Y | 3 | 6 |
 | Z | 4 | 7 |
