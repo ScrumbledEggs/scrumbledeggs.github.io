@@ -1,7 +1,7 @@
 ---
 title: Software Status Sprint 2
 date: 2017-11-14 17:27:00 Z
-author: evan
+author: Ian
 layout: post
 ---
 
