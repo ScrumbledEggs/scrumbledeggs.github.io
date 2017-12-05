@@ -1,11 +1,14 @@
 ---
 title: Standups
 date: 2017-12-05 16:23:00 Z
-author: Ian, Jared
+author:
+- Ian
+- Jared
+- 
 ---
 
 # Tool
-For standups we tried a couple of different options, but we ended up settling on Standuply, a Slack bot that automatically prompted us to do standups. We tried a couple of other options (Standupbot, Alice) but neither were quite right for us so we ended up deciding on standuply. Basically what it came down to is that standuply was free for an unlimited period and the other two only had a month free before you needed to buy a paid option.
+For standups we tried a couple of different options, but we ended up settling on Standuply, a Slack bot that automatically prompted us to do standups. We tried a couple of other options (Standupbot, Geekbot, Standup Alice) but none were quite right for us so we ended up deciding on standuply. Basically what it came down to is that standuply was free for an unlimited period and the other two only had a month free before you needed to buy a paid option.
 
 # Structure
 
