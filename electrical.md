@@ -1,9 +1,22 @@
 ---
-title: Electrical
+title: Electrical System
 permalink: "/tech/electrical/"
 layout: page
 ---
 
-Trust fund man braid drinking vinegar, non semiotics raclette laboris laborum est. Cred fugiat DIY non, hoodie viral tumblr lo-fi. Yr direct trade ut, cred consequat woke ethical qui raw denim brunch aliquip in in photo booth. Art party shabby chic portland laborum street art drinking vinegar. Consequat pour-over veniam umami. Whatever enim trust fund, hexagon heirloom ramps wolf. Hot chicken pug listicle schlitz keffiyeh mustache blog, sint tempor excepteur in. Laboris food truck cloud bread cardigan polaroid. Flannel trust fund esse franzen. Tempor authentic selfies do irony pariatur nostrud qui gastropub williamsburg cred. Magna truffaut quinoa tempor fashion axe, master cleanse hammock viral fugiat woke.
+Electrical Parts:
+* Arduino Uno microcontroller
+* CNC stepper motor shield with DRV8825
+* Nema 17 Stepper Motors (12V 0.4A)
+* Servo motor - hobby grade
 
-Sriracha ramps yr iceland, trust fund et pug dolor 3 wolf moon jean shorts. Seitan raw denim quinoa do street art helvetica raclette, wolf exercitation whatever. Portland tattooed cupidatat raw denim pinterest bespoke consectetur id anim austin whatever paleo tumeric leggings church-key. Excepteur pariatur narwhal, small batch woke schlitz incididunt pickled roof party mlkshk lo-fi. Microdosing sartorial banh mi umami artisan craft beer. Crucifix street art echo park chillwave sed. Yr shaman incididunt la croix, vegan lorem etsy letterpress fixie. Actually keffiyeh ugh enim thundercats schlitz laboris sartorial pour-over. Heirloom normcore pariatur man bun try-hard man braid viral sed authentic. Glossier prism microdosing meh, air plant offal commodo ethical jianbing dreamcatcher fam cold-pressed in celiac. Deep v small batch distillery tempor tofu mlkshk. Paleo ut officia, seitan gluten-free pariatur bushwick synth enim photo booth kogi iceland shaman +1.
+![block diagram]({{ site.baseurl }}/assets/images/electrical_block_diagram.png)
+
+The Arduino receives instructions over serial, calculates the paths needed to move the steppers. It then runs the steppers until.
+
+## Decisions:
+We chose to use Nema 17 stepper motors because they are a good compromise between cost, size, and performance. The end-effector is not very heavy and with counterweights. We are pleased with the precision and speed of these motors.
+
+We use a standard CNC stepper motor shield with DRV8825 stepper drivers. This is a standard way to drive stepper motors
+
+A hobby grade servo is good enough for a tool changer that moves a delron pin and a small eraser.
