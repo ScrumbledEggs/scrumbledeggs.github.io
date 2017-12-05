@@ -1,6 +1,7 @@
 ---
 title: Standups
 date: 2017-12-05 16:23:00 Z
+author: ian
 ---
 
 # Tool
