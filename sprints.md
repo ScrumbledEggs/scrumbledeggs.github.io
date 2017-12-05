@@ -8,5 +8,5 @@ BoardBot's development is split up across four roughly two-week sprints, each cu
 
 - [Sprint 1]({{ site.baseurl }}{% link _sprints/sprint-1.md %})
 - [Sprint 2]({{ site.baseurl }}{% link _sprints/sprint-2.md %})
-- ~~Sprint 3~~
-- ~~Sprint 4~~
+- [Sprint 3]({{ site.baseurl }}{% link _sprints/sprint-3.md %})
+- [Final Sprint]({{ site.baseurl }}{% link _sprints/sprint-4.md %})
