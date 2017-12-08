@@ -8,6 +8,7 @@ layout: page
 * Finish modular cable connections
 * Marketing Material
 * Cross Whiteboard Mounting
+
 ### What we did in Sprint 4
 * Do it yourself second iteration of the Boardbot
 * Fixing the serial communication issue
