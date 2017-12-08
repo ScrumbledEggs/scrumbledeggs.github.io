@@ -15,5 +15,5 @@ layout: page
 * Marketing
 
 ## Current Status 
-https://drive.google.com/open?id=1BGX7SfhieQuRmbrAQXPJCnek5YCE_1QQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gV_SkSlUVO8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 *
