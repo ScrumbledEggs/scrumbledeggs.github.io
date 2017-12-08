@@ -38,3 +38,36 @@ With a budget of less than $250, you too can build your own BoardBot. With open 
 Our mechanical design is [available on Onshape](https://cad.onshape.com/documents/8f08652983ca17f06e9ac67d/w/e174f06e8eb73e105045d519/e/7b27395932c9fa97ee45a030).
 
 Our software is [available on GitHub](https://github.com/ScrumbledEggs/PoE).
+
+## Build Instructions:
+
+### Stepper Mount
+
+#### Bare Mount
+For each stepper mount, you will need:
+- 10x #6-32 1/2" screws
+- 10x #6-32 square nuts
+- 10x #6 washers
+- 2x side panels
+- 1x mount panel
+- 1x top panel
+- Phillips Screwdriver
+
+Take care to reverse the chirality of the mount panel for the second stepper mount.
+
+#### Add Hardware
+For each stepper mount, you will need:
+- 1x NEMA 17 stepper motor
+- 4x M3-8mm screws
+- 4x M3 washers
+- 1x M5-30mm screw
+- 1x M5 nut
+- 1x M5-10mm spacer
+- M2 hex key
+- M2.5 hex key
+- M4 hex key
+
+Take care to align the direction of the wire exit from the motor with the direction of the idler pulley.
+
+
+
