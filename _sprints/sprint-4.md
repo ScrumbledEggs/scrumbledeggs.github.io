@@ -5,7 +5,7 @@ layout: page
 
 ### Sprint 4 Deliverables
 * Cleanly Packaged CLI
-* Finish modular cable connections
+* Finish modular cable connections and clean up the wires
 * Marketing Material
 * Cross Whiteboard Mounting
 
