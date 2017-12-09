@@ -1,6 +1,6 @@
 ---
 title: Sprint 3
-published: false
+published: true
 Author: Ian
 layout: page
 ---
@@ -49,5 +49,3 @@ Motors are now closer to the board and using belts
 ### Counterweights
 
 Exist
-
-
