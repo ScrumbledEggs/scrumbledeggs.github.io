@@ -8,7 +8,7 @@ collections:
   sprints:
     title: Sprints
     output: true
-    permalink: "sprints/:title/"
+    permalink: sprints/:title/
   uploads:
     title: Uploads
     output: true
