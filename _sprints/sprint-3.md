@@ -1,6 +1,5 @@
 ---
 title: Sprint 3
-published: true
 Author: Ian
 layout: page
 ---
