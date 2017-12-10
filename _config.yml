@@ -27,7 +27,6 @@ country: United States of America
 url: https://scrumbledeggs.github.io/
 github_url: https://github.com/scrumbledeggs
 google_analytics: UA-110661156-1
-
 markdown: kramdown
 plugins:
 - jekyll-feed
