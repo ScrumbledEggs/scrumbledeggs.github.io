@@ -43,31 +43,101 @@ Our software is [available on GitHub](https://github.com/ScrumbledEggs/PoE).
 
 ### Stepper Mount
 
-#### Bare Mount
+#### Chassis
 For each stepper mount, you will need:
 - 10x #6-32 1/2" screws
 - 10x #6-32 square nuts
 - 10x #6 washers
 - 2x side panels
-- 1x mount panel
-- 1x top panel
+- Mount panel
+- Top panel
 - Phillips Screwdriver
 
 Take care to reverse the chirality of the mount panel for the second stepper mount.
 
-#### Add Hardware
+#### Hardware
 For each stepper mount, you will need:
-- 1x NEMA 17 stepper motor
+- NEMA 17 stepper motor
 - 4x M3-8mm screws
 - 4x M3 washers
-- 1x M5-30mm screw
-- 1x M5 nut
-- 1x M5-10mm spacer
+- M5-30mm screw
+- M5 nut
+- M5-10mm spacer
 - M2 hex key
 - M2.5 hex key
 - M4 hex key
 
 Take care to align the direction of the wire exit from the motor with the direction of the idler pulley.
+
+
+### Tool Changer
+
+#### Chassis
+
+For the Tool Changer, you will need:
+- 7x #6-32 1/2" screws
+- 15x #6-32 square nuts
+- 7x #6 washers
+- 2x #6-32 2" screws
+- 4x #8-32 screws
+- 4x #8-32 square nuts
+- Base plate
+- End plate
+- Mid plate
+- Front plate
+- Top plate
+- Side plate
+- Whiteboard marker
+- Hobby servo
+- Phillips screwdriver
+
+First, uncap the pen, insert through the mid plate and front plate, then recap.
+
+Next, install the servo in the base plate with the #8 fasteners
+
+Assemble the rest of the chassis, taking care that all the side plate notches are on the same side.
+
+Run the 2" #6 screws through the sides of the tool changer, adding 4 nuts in the middle of the screw. These will serve as the adjustable contact point for the belts.
+
+##### End Effector
+
+For the End Effector, you will need:
+- Assembled Tool Changer Chassis
+- 4-way servo horn
+- Servo horn screw
+- 1" pin
+- Marker with eraser cap
+- Hot glue gun
+- Cutting Tool
+
+First, cut two of the lobes off of the servo horn.
+
+Next, hot glue the pin and the marker cap to the remaining two lobes
+
+Finally, install the servo horn on the Tool Changer Chassis.
+
+### Microcontroller Mount
+
+For the microcontroller you will need:
+- Arduino Uno compatible microcontroller
+- 4x #6-32 1/2" screws
+- 4x #6-32 square nuts
+- 4x #6 washers
+- 4x #4-32 3/4" screws
+- 4x #4-32 nuts
+- 4x #4 washers
+- 12x #4 1/8" spacers
+- Base plate
+- Side plate
+- Side plate w/ cutout
+- Phillips screwdriver
+
+First, assemble the microcontroller mount chassis.
+
+Then, Mount the arduino with the #4 hardware, with one spacer on top and two spacers underneath each mount hole.
+
+
+
 
 
 
