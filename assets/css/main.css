@@ -48,6 +48,46 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	/* Team Profiles */
+	.team {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+		text-align: center;
+	}
+
+	.team article {
+		flex-basis: 30%;
+		padding: 1em;
+	}
+
+	.team article h3 {
+		margin-bottom: 0;
+	}
+
+  .headshot {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+
+	.links span {
+		font-size: 2em;
+		height: 1.125em;
+		padding-left: .25em;
+		padding-right: .25em;
+	}
+	.team .links a {
+		border-bottom: none;
+	}
+
+
 /* Box Model */
 
 	*, *:before, *:after {

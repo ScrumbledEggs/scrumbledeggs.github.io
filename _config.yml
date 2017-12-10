@@ -27,25 +27,7 @@ country: United States of America
 url: https://scrumbledeggs.github.io/
 github_url: https://github.com/scrumbledeggs
 google_analytics: UA-110661156-1
-team:
-  adam:
-    name: Adam Novotny
-    github: labseven
-  alex:
-    name: Alex Core
-    github: Ryofashadewalk
-  ian:
-    name: Ian Paul
-    github: IanOlin
-  jared:
-    name: Jared Briskman
-    github: jaredbriskman
-  newsch:
-    name: Evan Lloyd New-Schmidt
-    photo: "/assets/images/pic01.jpg"
-    email: evan@new-schmidt.com
-    web: new-schmidt.com
-    github: newsch
+
 markdown: kramdown
 plugins:
 - jekyll-feed

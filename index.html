@@ -95,3 +95,43 @@ layout: default
 		</article> -->
 	</div>
 </section>
+
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Meet the Team</h2>
+	</header>
+	<div class="team">
+		{% for member in site.data.team %}
+		<article>
+			<img class="headshot" src="{{ site.baseurl }}/assets/images/{{ member.photo }}" alt=""/>
+      <div class="content">
+        <h3>{{ member.name }}</h3>
+				<div class="links">
+					{% if member.github %}
+					<a href="https://github.com/{{ member.github }}" target="_blank">
+						<span class="fa-github icon"></span>
+					</a>
+					{% endif %}
+					{% if member.website %}
+					<a href="{{ member.website }}" target="_blank">
+						<span class="fa-globe icon"></span>
+					</a>
+					{% endif %}
+					{% if member.linkedin %}
+					<a href="https://linkedin.com/in/{{ member.linkedin }}" target="_blank">
+						<span class="fa-linkedin icon"></span>
+					</a>
+					{% endif %}
+					{% if member.email %}
+					<a href="mailto:{{ member.email }}" target="_blank">
+						<span class="fa-envelope-o icon"></span>
+					</a>
+					{% endif %}
+				</div>
+        <p>{{ member.description }}</p>
+      </div>
+    </article>
+		{% endfor %}
+	</div>
+</section>

@@ -1,0 +1,34 @@
+- username: adam
+  name: Adam Novotny
+  photo: adam.jpg
+  github: labseven
+  website: http://www.labseven.space/
+  description: Adam serves as the PM for boardbot.
+
+- username: alex
+  name: Alex Core
+  photo: AlexCore.jpg
+  github: Ryofashadewalk
+  description: Alex serves as the PM for boardbot.
+
+- username: newsch
+  name: Evan Lloyd New-Schmidt
+  photo: evan_by_evan.jpg
+  github: newsch
+  email: evan@new-schmidt.com
+  website: http://new-schmidt.com/
+  linkedin: newsch
+  description: 'Born and raised on the West Coast, Evan is constantly impressed by snow and all things weather-related.'
+
+- username: ian
+  name: Ian Paul
+  photo: ian.jpg
+  github: IanOlin
+  description: Ian serves as the PM for boardbot.
+
+- username: jared
+  name: Jared Briskman
+  photo: jared.jpg
+  github: jaredbriskman
+  website: http://jaredbriskman.com/
+  description: Jared serves as the PM for boardbot.

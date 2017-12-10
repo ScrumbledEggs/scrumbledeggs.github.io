@@ -86,19 +86,22 @@
 			var $sidebar = $('#sidebar'),
 				$sidebar_inner = $sidebar.children('.inner');
 
+			var currentPage = location.pathname;
+			var onMainPage = (currentPage == "/2017/boardbot/" || currentPage == "/2017/boardbot/index.html" || currentPage == "/" || currentPage == "/index.html");
+
 			// Inactive by default on <= large.
 				skel
 					.on('+large', function() {
 						$sidebar.addClass('inactive');
 					})
 					.on('-large !large', function() {
-						if (location.pathname != "/2017/boardbot/" && location.pathname != "/2017/boardbot/index.html") {
+						if (!onMainPage) {
 							$sidebar.removeClass('inactive');
 						};
 					});
 
 			// Inactive on main page
-				if (location.pathname == "/2017/boardbot/" || location.pathname == "/2017/boardbot/index.html") {
+				if (onMainPage) {
 					$sidebar.addClass('inactive')
 				};
 
