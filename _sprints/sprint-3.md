@@ -15,9 +15,9 @@ layout: page
 
 ## Current Status
 
-(Here)[https://drive.google.com/file/d/1BGX7SfhieQuRmbrAQXPJCnek5YCE_1QQ/view?usp=sharing] is a video of the robot.
+[Here](https://drive.google.com/file/d/1BGX7SfhieQuRmbrAQXPJCnek5YCE_1QQ/view?usp=sharing) is a video of the robot.
 
-(Here)[https://docs.google.com/presentation/d/1plyTCBBu1P18bXn1_NWeWUgOcgUoGsLP4vZLkrV1ub0/edit?usp=sharing] are our slides from our sprint 3 review.
+[Here](https://docs.google.com/presentation/d/1plyTCBBu1P18bXn1_NWeWUgOcgUoGsLP4vZLkrV1ub0/edit?usp=sharing) are our slides from our sprint 3 review.
 
 ## Reframing
 
