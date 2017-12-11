@@ -29,7 +29,9 @@
   name: Ian Paul
   photo: ian.jpg
   github: IanOlin
-  description: Ian serves as the PM for boardbot.
+  description: >
+    Ian is bad at everything he does, including but not limited to electrical and computer engineering.
+    His goal on this project was to learn how to write embedded software and for some definitions of learn he succeeded.
 
 - username: jared
   name: Jared Briskman
