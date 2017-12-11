@@ -3,7 +3,9 @@
   photo: adam.jpg
   github: labseven
   website: http://www.labseven.space/
-  description: Adam serves as the PM for boardbot.
+  description: >
+    Adam is a leet hacker by day and asleep by night.
+    He is a professional barista and likes long walks on the beach.
 
 - username: alex
   name: Alex Core
@@ -18,7 +20,10 @@
   email: evan@new-schmidt.com
   website: http://new-schmidt.com/
   linkedin: newsch
-  description: 'Born and raised on the West Coast, Evan is constantly impressed by snow and all things weather-related.'
+  description: >
+    Born and raised on the Central Coast of California, Evan is constantly impressed by snow and all things weather-related.
+    He likes photography, cardboard, and overanalyzing most things.
+    Evan has enjoyed contributing to mechanical, electrical, design, and meta aspects of the BoardBot experience.
 
 - username: ian
   name: Ian Paul
