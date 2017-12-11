@@ -108,14 +108,14 @@ layout: default
       <div class="content">
         <h3>{{ member.name }}</h3>
 				<div class="links">
-					{% if member.github %}
-					<a href="https://github.com/{{ member.github }}" target="_blank">
-						<span class="fa-github icon"></span>
-					</a>
-					{% endif %}
 					{% if member.website %}
 					<a href="{{ member.website }}" target="_blank">
 						<span class="fa-globe icon"></span>
+					</a>
+					{% endif %}
+					{% if member.github %}
+					<a href="https://github.com/{{ member.github }}" target="_blank">
+						<span class="fa-github icon"></span>
 					</a>
 					{% endif %}
 					{% if member.linkedin %}
@@ -124,7 +124,7 @@ layout: default
 					</a>
 					{% endif %}
 					{% if member.email %}
-					<a href="mailto:{{ member.email }}" target="_blank">
+					<a href="mailto:{{ member.email }}">
 						<span class="fa-envelope-o icon"></span>
 					</a>
 					{% endif %}

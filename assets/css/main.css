@@ -66,6 +66,11 @@
 		margin-bottom: 0;
 	}
 
+	.team article p {
+		text-align: justify;
+		padding: 2em;
+	}
+
   .headshot {
     display: inline-block;
     width: 250px;
