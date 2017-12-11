@@ -3,7 +3,7 @@ title: Sprint 1
 layout: page
 ---
 
-#### What we did in Sprint 1:
+## What we did in Sprint 1:
 
 * Decided on this project
 * Spun up team:
@@ -12,19 +12,19 @@ layout: page
   * Decided on design practices
   * Discussed expectations, roles, and team dynamics
 * Made a proof of concept using DC motors and hot glued string
-* Calculated the [change-of-basis math]({{ site.baseurl }}/2017/10/20/Coordinate-System-Math.html)
+* Calculated the [change-of-basis math]({{ site.baseurl }}{% link _posts/2017-10-20-Coordinate-System-Math.md %})
 * Upgraded the proof of concept with 3D printed parts
 
 ## Current Status:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lc2-iXFGe7M?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ![sprint1 deliverable]({{ site.baseurl }}/assets/images/sprint1system.png)
-> The sprint 1 sysem. Draws hardcoded points using dc motors and timing
->
+
+_The sprint 1 system. Draws hardcoded points using dc motors and timing_
 
 ![marker collets]({{ site.baseurl }}/assets/images/sprint1marker.jpg)
 
-> A close up of the marker with 3D printed collets
+_A close up of the marker with 3D printed collets_
 
 ![dc motor]({{ site.baseurl }}/assets/images/sprint1motor.jpg)
 
@@ -47,12 +47,12 @@ layout: page
   * No sway on the pen
 * Tool changer
   * Servo with many tools on its end
-    * + Compact
-    * - Not versatile (limited number of tools)
+    * \+ Compact
+    * \- Not versatile (limited number of tools)
   * Solenoids
-    * + More extendable with number of tools
-    * - Too much force? (Breaking pen tips, bouncing off the wall)
-    * - High current (cannot make wireless/battery powered)
+    * \+ More extendable with number of tools
+    * \- Too much force? (Breaking pen tips, bouncing off the wall)
+    * \- High current (cannot make wireless/battery powered)
 
 ## Next Sprint Deliverables:
 * Implement stepper motors

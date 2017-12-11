@@ -1,10 +1,10 @@
 ---
 title: Sprint 3
-Author: Ian
+author: Ian
 layout: page
 ---
 
-# What We Did in Sprint 3
+## What We Did in Sprint 3
 
 * Made SVG toolchain.
 * Implemented better stepper motor driver.

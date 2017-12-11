@@ -21,7 +21,4 @@ layout: page
 
 ## Future Risks:
 * Wireless communications to end effector
-  * Or better cable management 
-
-
-QUALITY!
+  * Or better cable management
