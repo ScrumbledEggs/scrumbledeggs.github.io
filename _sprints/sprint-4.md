@@ -25,7 +25,8 @@ These were then whittled down to the oens that we saw as both reasonable and imp
 * Polished product 
 * Limited ability to cross whiteboard mount
 
+The work for this sprint can be seen on our DIY page(insert link).
+
 ## Risks:
 * Multiple Divergent Goals Overscoping
-* Serial Issues
-* 
+* Serial port issues
