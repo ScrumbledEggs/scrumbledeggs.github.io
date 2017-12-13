@@ -1,24 +1,29 @@
 ---
-title: Sprint 4
+title: Final Sprint
 layout: page
 ---
 
-### Sprint 4 Deliverables
-* Cleanly Packaged CLI
-* Finish modular cable connections and clean up the wires
-* Marketing Material
-* Cross Whiteboard Mounting
-
 ### What we did in Sprint 4
-* Do it yourself second iteration of the Boardbot
-* Fixing the serial communication issue
-* Strong focus on website assembly 
-* Marketing
+* Creation of a Second Boardbot for well documented version
+* Polishing and improving systems for a live demo
+* Completing the website information
+* Neat and Clean Wires
 
 ## Current Status 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LZ1MrfjdXGc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IB7A88SmVHM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## What We Learned:
+## Reframing in terms of final goals
+Going into this final sprint we all had some different goals this orginally were:
+* Creation of a second Boardbot with a documented build
+* Clean CLI interface(allows for anyone to use an SVG file)
+* Well documented website
+* Polished product
+* Cross whiteboard mounting
+These were then whittled down to the oens that we saw as both reasonable and important:
+* Well documented website
+* Creation of a second Boardbot with a documented build
+* Polished product 
+* Limited ability to cross whiteboard mount
 
 ## Risks:
 * Multiple Divergent Goals Overscoping
