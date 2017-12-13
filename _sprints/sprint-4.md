@@ -8,6 +8,7 @@ layout: page
 * Polishing and improving systems for a live demo
 * Completing the website information
 * Neat and Clean Wires
+* Improved SVG Parsing
 
 ## Current Status 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IB7A88SmVHM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
@@ -22,7 +23,7 @@ Going into this final sprint we all had some different goals this orginally were
 These were then whittled down to the oens that we saw as both reasonable and important:
 * Well documented website
 * Creation of a second Boardbot with a documented build
-* Polished product 
+* Polished product (Better SVG parsing)
 * Limited ability to cross whiteboard mount
 
 The DIY process can be shown on this [DIY page](scrumbledeggs.github.io/diy.html)
