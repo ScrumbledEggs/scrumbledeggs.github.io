@@ -28,7 +28,7 @@ Our Mechanical System is composed of these parts based upon the design A above:
 * Counterweights
 
 # Stepper Mount
-This system is just a simple mount to allow the steppers to sty on the whiteboard and allow easy connections. The design was cut out in acrylic utilizing the the measurements from the steppers and whiteboard.
+This system is just a simple mount to allow the steppers to sty on the whiteboard and allow easy connections. The design was cut out in acrylic utilizing the the measurements from the steppers and whiteboard. THis is also part of the belt system and helps to keep it in line.
 
 Need to request a better image.
 ![StepperMountClear.jpg](/uploads/StepperMountClear.jpg)
@@ -50,9 +50,21 @@ This is the neutral position of the tool that allows for the the marker to draw 
 
 # Micro Controller Mount
 
-This mount is similar to the stepper mounts as its function is to attach to the top of the whiteboard and support its object. The Arudino held by this mounted needed the stable support in addition to access to the necessary ports for the steppers, tool, changer, power, and computer.
+This mount is similar to the stepper mounts as its function is to attach to the top of the whiteboard and support its object. The Arudino held by this mounted needed the stable support in addition to access to the necessary ports for the steppers, tool, changer, power, and computer. Shown below is the Arudino Mount:(need a better verison)
 
+![fixarudino.jpg](/uploads/fixarudino.jpg)
 
+# Belt System
+
+This system function is for precsion of the drawing. Specificlaluy with the stepper mortos in mind using a belt was the ideal system with the ease of usage for the ability to have hard stops. WIth the teeth of the belts eariler issues of slippage due to the the use of string. The belt connect ot the toolchanger tool the steppers and the counterweights.
+
+![beltimage.jpg](/uploads/beltimage.jpg)
+
+# Counterweight System
+
+This isystem is for easier movemnet of the toolchanger and to make the it a bit more smooth. (Need to aadd more here)
+
+![counterweight.jpg](/uploads/counterweight.jpg)
 
 
 
