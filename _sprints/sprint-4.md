@@ -25,7 +25,7 @@ These were then whittled down to the oens that we saw as both reasonable and imp
 * Polished product 
 * Limited ability to cross whiteboard mount
 
-The work for this sprint can be seen on our DIY page(insert link).
+The DIY process can be shown on this [DIY page](scrumbledeggs.github.io/diy.html)
 
 ## Risks:
 * Multiple Divergent Goals Overscoping
