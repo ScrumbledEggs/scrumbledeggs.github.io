@@ -41,6 +41,18 @@ Our software is [available on GitHub](https://github.com/ScrumbledEggs/PoE).
 
 ## Build Instructions:
 
+### Laser Cutting
+For laser cutting fabrication, you will need:
+- 12"x24" 1/8" Acrylic sheet
+- Laser Cutter (Capable of cutting acrylic)
+
+A cut sheet is available [Here](https://cad.onshape.com/documents/8f08652983ca17f06e9ac67d/v/2d1037471e8f919848eb07d1/e/9d0991215f774ad617620235):
+
+Download sheet as whatever format is convenient for your Laser Cutting toolchain, and cut all paths.
+
+
+
+
 ### Stepper Mount
 
 #### Chassis
