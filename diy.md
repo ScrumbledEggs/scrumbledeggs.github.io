@@ -46,12 +46,36 @@ For laser cutting fabrication, you will need:
 - 12"x24" 1/8" Acrylic sheet
 - Laser Cutter (Capable of cutting acrylic)
 
-A cut sheet is available [Here](https://cad.onshape.com/documents/8f08652983ca17f06e9ac67d/v/2d1037471e8f919848eb07d1/e/9d0991215f774ad617620235):
+A cut sheet is available [Here](https://cad.onshape.com/documents/8f08652983ca17f06e9ac67d/v/2d1037471e8f919848eb07d1/e/9d0991215f774ad617620235)
 
 Download sheet as whatever format is convenient for your Laser Cutting toolchain, and cut all paths.
 
+### Counterweights
 
+#### 3D printing
+For this fabrication, you will need:
+- 3D Printer
+- ~100g of Filament
 
+Parts are available [Here](https://cad.onshape.com/documents/8f08652983ca17f06e9ac67d/v/2d1037471e8f919848eb07d1/e/5c27c8107b5f37ee4c02bc5c) 
+
+Download as STL, and print two copies of each part.
+
+#### Assembly
+For each counterweight assembly, you will need:
+- Back block
+- Belt cover block
+- Bottle cover block
+- 4x #6-32 heat set inserts
+- 4x #6-32 1 1/4" screws
+- Bottle
+- Soldering iron
+
+Place each heat set insert in the corresponding hole in the back block, then use the soldering iron to gently push them into place.
+
+Snap the bottle into the bottom of the back block.
+
+After final assembly, screw the cover blocks on.
 
 ### Stepper Mount
 
@@ -105,7 +129,7 @@ For the Tool Changer, you will need:
 
 First, uncap the pen, insert through the mid plate and front plate, then recap.
 
-Next, install the servo in the base plate with the #8 fasteners
+Next, install the servo in the base plate with the #8 fasteners.
 
 Assemble the rest of the chassis, taking care that all the side plate notches are on the same side.
 
@@ -147,6 +171,38 @@ For the microcontroller you will need:
 First, assemble the microcontroller mount chassis.
 
 Then, Mount the arduino with the #4 hardware, with one spacer on top and two spacers underneath each mount hole.
+
+### Cables
+
+#### Power Cable
+For the power cable, you will need:
+- 2 conductor wire
+- Male DC barrel jack
+- Female DC barrel jack
+- Wire strippers
+- Small phillips screwdriver
+
+Cut wire to desired length, then mount the barrel jacks on each side.
+
+#### Servo Cable
+For the servo cable, you will need:
+- 3 conductor wire
+- 6x Female crimps
+- 2x 3 pin female 100 pitch header
+- Wire strippers
+- Crimpers
+
+Cut 3 conductor wire to desired length, and then crimp female headers on either side.
+
+#### Stepper cables
+For each stepper cable, you will need:
+- 4 conductor wire
+- 2x 4 conductor cable-to-cable connectors
+- 8x matching crimps
+- Wire strippers
+- Crimpers
+
+Cut 4 conductor wire to desired length, then crimp cable to cable connecters on either side.
 
 
 
