@@ -62,6 +62,7 @@ Parts are available [Here](https://cad.onshape.com/documents/8f08652983ca17f06e9
 Download as STL, and print two copies of each part.
 
 #### Assembly
+![20171212-104.jpg](/uploads/20171212-104.jpg)
 For each counterweight assembly, you will need:
 - Back block
 - Belt cover block
@@ -73,13 +74,19 @@ For each counterweight assembly, you will need:
 
 Place each heat set insert in the corresponding hole in the back block, then use the soldering iron to gently push them into place.
 
+Make sure your prints match the color of your build.
+![20171212-116.jpg](/uploads/20171212-116.jpg)
+![20171212-117.jpg](/uploads/20171212-117.jpg)
+
 Snap the bottle into the bottom of the back block.
+![20171212-126.jpg](/uploads/20171212-126.jpg)
 
 After final assembly, screw the cover blocks on.
 
 ### Stepper Mount
-
+![20171210-072.jpg](/uploads/20171210-072.jpg)
 #### Chassis
+![20171210-073.jpg](/uploads/20171210-073.jpg)
 For each stepper mount, you will need:
 - 10x #6-32 1/2" screws
 - 10x #6-32 square nuts
@@ -92,6 +99,7 @@ For each stepper mount, you will need:
 Take care to reverse the chirality of the mount panel for the second stepper mount.
 
 #### Hardware
+![20171210-075.jpg](/uploads/20171210-075.jpg)
 For each stepper mount, you will need:
 - NEMA 17 stepper motor
 - 4x M3-8mm screws
@@ -105,11 +113,12 @@ For each stepper mount, you will need:
 
 Take care to align the direction of the wire exit from the motor with the direction of the idler pulley.
 
+![20171210-079.jpg](/uploads/20171210-079.jpg)
 
 ### Tool Changer
 
 #### Chassis
-
+![20171210-054.jpg](/uploads/20171210-054.jpg)
 For the Tool Changer, you will need:
 - 7x #6-32 1/2" screws
 - 15x #6-32 square nuts
@@ -128,15 +137,17 @@ For the Tool Changer, you will need:
 - Phillips screwdriver
 
 First, uncap the pen, insert through the mid plate and front plate, then recap.
-
+![20171210-053.jpg](/uploads/20171210-053.jpg)
 Next, install the servo in the base plate with the #8 fasteners.
 
 Assemble the rest of the chassis, taking care that all the side plate notches are on the same side.
+![20171210-056.jpg](/uploads/20171210-056.jpg)
 
 Run the 2" #6 screws through the sides of the tool changer, adding 4 nuts in the middle of the screw. These will serve as the adjustable contact point for the belts.
+![20171210-059.jpg](/uploads/20171210-059.jpg)
 
 ##### End Effector
-
+![20171210-060.jpg](/uploads/20171210-060.jpg)
 For the End Effector, you will need:
 - Assembled Tool Changer Chassis
 - 4-way servo horn
@@ -147,13 +158,13 @@ For the End Effector, you will need:
 - Cutting Tool
 
 First, cut two of the lobes off of the servo horn.
-
+![20171210-061.jpg](/uploads/20171210-061.jpg)
 Next, hot glue the pin and the marker cap to the remaining two lobes
-
+![20171210-062.jpg](/uploads/20171210-062.jpg)
 Finally, install the servo horn on the Tool Changer Chassis.
 
 ### Microcontroller Mount
-
+![20171210-066.jpg](/uploads/20171210-066.jpg)
 For the microcontroller you will need:
 - Arduino Uno compatible microcontroller
 - 4x #6-32 1/2" screws
@@ -171,10 +182,12 @@ For the microcontroller you will need:
 First, assemble the microcontroller mount chassis.
 
 Then, Mount the arduino with the #4 hardware, with one spacer on top and two spacers underneath each mount hole.
+![20171210-069.jpg](/uploads/20171210-069.jpg)
 
 ### Cables
 
 #### Power Cable
+![20171210-081.jpg](/uploads/20171210-081.jpg)
 For the power cable, you will need:
 - 2 conductor wire
 - Male DC barrel jack
@@ -183,6 +196,7 @@ For the power cable, you will need:
 - Small phillips screwdriver
 
 Cut wire to desired length, then mount the barrel jacks on each side.
+![20171210-082.jpg](/uploads/20171210-082.jpg)
 
 #### Servo Cable
 For the servo cable, you will need:
@@ -195,6 +209,7 @@ For the servo cable, you will need:
 Cut 3 conductor wire to desired length, and then crimp female headers on either side.
 
 #### Stepper cables
+![20171210-077.jpg](/uploads/20171210-077.jpg)
 For each stepper cable, you will need:
 - 4 conductor wire
 - 2x 4 conductor cable-to-cable connectors
@@ -203,9 +218,8 @@ For each stepper cable, you will need:
 - Crimpers
 
 Cut 4 conductor wire to desired length, then crimp cable to cable connecters on either side.
+![20171210-086.jpg](/uploads/20171210-086.jpg)
 
+## Enjoy your BoardBot!
 
-
-
-
-
+![20171212-131.jpg](/uploads/20171212-131.jpg)
