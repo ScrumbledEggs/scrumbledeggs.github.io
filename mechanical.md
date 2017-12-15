@@ -21,15 +21,14 @@ This system was a very different system. We considered it if we needed more prec
 
 ## Hardware parts
 Our Mechanical System is composed of these parts based upon the design A above:
-* Stepper Mount
+* Whiteboard Rail Mount
 * Tool Changer
-* Micro controller Mount
 * Belt system
 * Counterweights
 
-### Stepper Mount
+### Whiteboard Rail Mounts
 
-This system is just a simple mount to allow the steppers to hang on the whiteboard and allow easy setup.
+This system is just a simple mount to allow the steppers and the microcontroller to hang on the whiteboard and allow easy setup.
 
 ![StepperMountClear.jpg](/uploads/StepperMountClear.jpg)
 
@@ -49,3 +48,7 @@ This is the neutral position of the tool that allows for the the marker to draw 
 
 ![Toolchangerside.jpg](/uploads/Toolchangerside.jpg)
 > Tool changer: side view
+
+## Belts and Counterweights
+
+We use belts in the final design because they do not slip, and allow for high precision in movement. We added adjustable counterweights to make balance the end-effector. The end-effector does not slide when the motors are powered down, and they make manually adjusting the position easy. The counterweight mounts are 3D prints that snap-fit water bottle necks. The belts are held on both ends by bending them through a loop and meshing the teeth together.
