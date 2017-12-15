@@ -19,19 +19,19 @@ Our Mechanical System is composed of
 
 These mount on the rail on top of the whiteboard. The steppers face inward, in order to have the belt as close to the surface of the whiteboard as possible. An idler facilitates full engagement of the timing belt on the driving pulley. NEMA 17 steppers are commonplace, and cheap due to widespread adoption.
 
-![StepperMountClear.jpg](/uploads/StepperMountClear.jpg)
+![StepperMountClear.jpg]({{ site.baseurl }}/uploads/StepperMountClear.jpg)
 
 
 ### Tool Changer
 This assembly carries the marker, and a servo enables erasing, along with travel without drawing.
 
 
-![Toolchangertop.jpg](/uploads/Toolchangertop.jpg)
+![Toolchangertop.jpg]({{ site.baseurl }}/uploads/Toolchangertop.jpg)
 > Tool changer: top view
 
 This is the neutral position of the tool that allows for the the marker to draw on the board.  The two tools can be rotated using the servo to a forward position which will push the marker away from the board. Depending on the direction the arms are rotated this will put it in a move or erase mode.
 
-![Toolchangerside.jpg](/uploads/Toolchangerside.jpg)
+![Toolchangerside.jpg]({{ site.baseurl }}/uploads/Toolchangerside.jpg)
 > Tool changer: side view
 
 The long screws on the side of the tool changer serve as adjustable contact points for the belt. They contact area can be moved back and forth to compensate for the center of mass of the assembly, ensuring level hanging.

@@ -9,7 +9,7 @@ tags:
 ---
 
 
-![MVIMG_20171117_152858.jpg](/uploads/MVIMG_20171117_152858.jpg)
+![MVIMG_20171117_152858.jpg]({{ site.baseurl }}/uploads/MVIMG_20171117_152858.jpg)
 
 This sprint, we transitioned from spooling twine to timing belts and pulleys for our control arms. This decision comes with several advantages:
 
