@@ -50,6 +50,8 @@ A cut sheet is available [Here](https://cad.onshape.com/documents/8f08652983ca17
 
 Download sheet as whatever format is convenient for your Laser Cutting toolchain, and cut all paths.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vc9YcOJy9pQ?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ### Counterweights
 
 #### 3D printing
