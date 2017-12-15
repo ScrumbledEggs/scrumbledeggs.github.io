@@ -14,10 +14,11 @@ collections:
     output: true
 subtitle: Olin PoE 2017
 email: evan@new-schmidt.com
-description: >
-  The website of team Scrumbled Eggs for the Principles of Engineering
-  course at Olin College of Engineering in Fall 2017. Currently investigating
-  the intersection of whiteboards and Computer Numerical Control.
+description: 'The website of team Scrumbled Eggs for the Principles of Engineering
+  course at Olin College of Engineering in Fall 2017. Currently investigating the
+  intersection of whiteboards and Computer Numerical Control.
+
+'
 street_address: 1000 Olin Way
 city: Needham
 state: MA
