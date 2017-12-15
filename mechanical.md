@@ -5,50 +5,44 @@ layout: page
 ---
 
 ## Basic Structure
-During the first sprint we deliberate between multiple different system structures with the main changes between these design being the usage of the motors and how they related to position. Below are the three versions we considered:
-
-#### Design A Two Motors
-![Design A]({{ site.baseurl }}/assets/images/MVIMG_20171026_204224.jpg)
-This is the design we choose due to ease of setup and control.
-
-#### Design B Four Motor System
-![MVIMG_20171026_210831.jpg](/uploads/MVIMG_20171026_210831.jpg)
-This is the second design which is a variation of the first design with more motors. This version was scrapped for a more conservative pricing in addition to simplicity.
-
-#### Design C Gantry System
-![MVIMG_20171026_211311.jpg](/uploads/MVIMG_20171026_211311.jpg)
-This system was a very different system. We considered it if we needed more precision than the two cable system could provide, but our Design A proof of concept was functional. The gantry system did not fulfill our goals for cross-whiteboard mounting and scaling.
+We draw on the whiteboard by moving a tool carrier slung between two stepper motors, suspended via timing belts. This allows for very cheap and easy scalability compared to more traditional gantry systems. The only change when scaling up and down is different lengths of wire and timing belt.
 
 ## Hardware parts
-Our Mechanical System is composed of these parts based upon the design A above:
-* Whiteboard Rail Mount
+Our Mechanical System is composed of 
+* Stepper Mounts
 * Tool Changer
-* Belt system
+* Microcontroller Mount
 * Counterweights
+* Timing Belts
 
-### Whiteboard Rail Mounts
+### Stepper Mounts
 
-This system is just a simple mount to allow the steppers and the microcontroller to hang on the whiteboard and allow easy setup.
+These mount on the rail on top of the whiteboard. The steppers face inward, in order to have the belt as close to the surface of the whiteboard as possible. An idler facilitates full engagement of the timing belt on the driving pulley. NEMA 17 steppers are commonplace, and cheap due to widespread adoption.
 
 ![StepperMountClear.jpg](/uploads/StepperMountClear.jpg)
 
 
-## Tool Changer
-This system serves various purposes:
-* Has a center of mass that allows for both the eraser and marker to make solid contact with the board
-* Uses a hobby dc motor to change between the eraser, marker, and movement positions
-* Integrates with the belt system
-* Connects to the Arudino system without the wiring interfering with movement.
+### Tool Changer
+This assembly carries the marker, and a servo enables erasing, along with travel without drawing.
 
 
 ![Toolchangertop.jpg](/uploads/Toolchangertop.jpg)
 > Tool changer: top view
 
-This is the neutral position of the tool that allows for the the marker to draw on the board.  The two "arms" can be rotated using the motor to a different position which will push the marker away from the board. Depending on the direction the arms are rotated this will put it in a move or erase mode.
+This is the neutral position of the tool that allows for the the marker to draw on the board.  The two tools can be rotated using the servo to a forward position which will push the marker away from the board. Depending on the direction the arms are rotated this will put it in a move or erase mode.
 
 ![Toolchangerside.jpg](/uploads/Toolchangerside.jpg)
 > Tool changer: side view
 
-## Belts and Counterweights
+The long screws on the side of the tool changer serve as adjustable contact points for the belt. They contact area can be moved back and forth to compensate for the center of mass of the assembly, ensuring level hanging.
 
-We use belts in the final design because they do not slip, and allow for high precision in movement. We added adjustable counterweights to make balance the end-effector. The end-effector does not slide when the motors are powered down, and they make manually adjusting the position easy. The counterweight mounts are 3D prints that snap-fit water bottle necks. The belts are held on both ends by bending them through a loop and meshing the teeth together.
+### Microcontroller Mount
+
+Similar to the stepper mounts, provides an simple but stable attachment method for the Arduino and motor controller shield.
+
+### Counterweights
+
+We added adjustable counterweights to balance mass of the the tool changer, taking load off of the stepper motors. The counterweights use standard water bottles for cheap, continuous weight adjustment. They are affixed to the belts by an adjustable self-locking loop of timing belt.
+
+### Timing belts
+We use GT2 timing belts, again because of their widespread use in 3D printers. They do not stretch or slip, and are exceedingly easy to work with. 
