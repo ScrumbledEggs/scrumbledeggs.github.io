@@ -15,10 +15,18 @@ layout: page
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gN-Lxg4stGI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-## Design:
-* Keeping constant pressure on pen
-  * Important for smooth lines
+## Design Decisions:
+Keeping constant pressure on pen is important for rich color lines. We built an end-effector that is heavier, and this has given us enough force.
 
-## Future Risks:
-* Wireless communications to end effector
-  * Or better cable management
+Stepper motors were the logical next step for the Main actuators. We kept using the Adafruit shield but it held our control algorithms back and the switch felt like a step back. The lines were jagged, and drawing was slow.
+
+
+## Future Work:
+* Swapping in DRV8825 stepper motor drivers
+  * Desperately needed for functional motor control
+* Wireless communications to end effector?
+  * The hanging wire to the servo is a hazard
+  * We are considering making it wireless, with its own microcontroller, battery, and wireless communication
+* Do scaling testing
+  * Whiteboards are big, and we want to be able to draw on them completely
+* Add eraser to the tool changer
