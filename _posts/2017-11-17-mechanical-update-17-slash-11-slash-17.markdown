@@ -1,6 +1,7 @@
 ---
 title: Mechanical Update 17/11/17
 date: 2017-11-17 20:18:00 Z
+layout: post
 categories:
 - Mechancial
 tags:
