@@ -10,8 +10,8 @@ layout: page
 * Neat and Clean Wires
 * Improved SVG Parsing
 
-## Current Status 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IB7A88SmVHM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+## Current Status
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IB7A88SmVHM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Reframing in terms of final goals
 Going into this final sprint we all had some different goals this orginally were:
