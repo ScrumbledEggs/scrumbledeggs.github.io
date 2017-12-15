@@ -59,7 +59,7 @@ For this fabrication, you will need:
 - 3D Printer
 - ~100g of Filament
 
-Parts are available [Here](https://cad.onshape.com/documents/8f08652983ca17f06e9ac67d/v/2d1037471e8f919848eb07d1/e/5c27c8107b5f37ee4c02bc5c) 
+Parts are available [Here](https://cad.onshape.com/documents/8f08652983ca17f06e9ac67d/v/2d1037471e8f919848eb07d1/e/5c27c8107b5f37ee4c02bc5c)
 
 Download as STL, and print two copies of each part.
 
