@@ -1,11 +1,11 @@
 ---
 title: Mechanical Sprint 3 Deliverables
 date: 2017-11-14 16:59:00 Z
-layout: post
 categories:
 - Mechancial
 tags:
 - Deliverables
+layout: post
 ---
 
 1. Erase Functionality

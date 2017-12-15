@@ -1,12 +1,12 @@
 ---
 title: Mechanical Update 17/11/17
 date: 2017-11-17 20:18:00 Z
-layout: post
 categories:
 - Mechancial
 tags:
 - Mechanical
 - Update
+layout: post
 ---
 
 ![MVIMG_20171117_152858.jpg]({{ site.baseurl }}/uploads/MVIMG_20171117_152858.jpg)
