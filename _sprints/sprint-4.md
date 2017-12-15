@@ -4,29 +4,29 @@ layout: page
 ---
 
 ### What we did in Sprint 4
-* Creation of a Second Boardbot for well documented version
-* Polishing and improving systems for a live demo
+* Creation and Documentation of building a Boardbot
+* Polishing and improving systems for a demo
 * Completing the website information
-* Neat and Clean Wires
-* Improved SVG Parsing
+* Improved Wiring
+* Completed SVG Parsing
 
 ## Current Status
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IB7A88SmVHM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IB7A88SmVHM?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## Reframing in terms of final goals
-Going into this final sprint we all had some different goals this orginally were:
-* Creation of a second Boardbot with a documented build
-* Clean CLI interface(allows for anyone to use an SVG file)
-* Well documented website
+## Final Goals
+Going into this final sprint we all had some different goals this originally were:
+* Creation of a second Boardbot with a completely documented build
+* Usable CLI interface (drawing arbitrary SVG files with configuration)
+* Complete documentation on website
 * Polished product
-* Cross whiteboard mounting
-These were then whittled down to the oens that we saw as both reasonable and important:
-* Well documented website
-* Creation of a second Boardbot with a documented build
-* Polished product (Better SVG parsing)
-* Limited ability to cross whiteboard mount
+* Cross-whiteboard mounting
 
-The DIY process can be shown on this [DIY page](scrumbledeggs.github.io/diy.html)
+We completed the following goals:
+* Website Complete
+* Created a second Boardbot with a documented build
+* Polished product (Better SVG parsing)
+
+The DIY process can be seen on the [DIY page](/diy.html)
 
 ## Risks:
 * Multiple Divergent Goals Overscoping
