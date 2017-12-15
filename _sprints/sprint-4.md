@@ -26,7 +26,7 @@ We completed the following goals:
 * Created a second Boardbot with a documented build
 * Polished product (Better SVG parsing)
 
-The DIY process can be seen on the [DIY page](/diy.html)
+The DIY process can be seen on the [DIY page]({{ site.baseurl }}/diy.html)
 
 ## Risks:
 * Multiple Divergent Goals Overscoping

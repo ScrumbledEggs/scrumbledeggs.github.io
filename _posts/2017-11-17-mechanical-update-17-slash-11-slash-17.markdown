@@ -6,6 +6,7 @@ categories:
 tags:
 - Mechanical
 - Update
+layout: post
 ---
 
 ![MVIMG_20171117_152858.jpg]({{ site.baseurl }}/uploads/MVIMG_20171117_152858.jpg)

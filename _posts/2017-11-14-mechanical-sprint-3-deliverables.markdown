@@ -5,6 +5,7 @@ categories:
 - Mechancial
 tags:
 - Deliverables
+layout: post
 ---
 
 1. Erase Functionality
